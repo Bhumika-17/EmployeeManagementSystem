@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body{
+    background-color: #CEBEBE;
+}
+
+h1{
+    color: #004643;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+form{
+    font-size: x-large;
+    color: #6D2E46;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+
+input[type=submit] {
+    background-color: #6D2E46; 
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20%;
+}
+
+table{
+    background-color: CAFFD0;
+    border: solid black;
+    margin: 20px;
+    color: #6D2E46;
+    font-style : bold;
+}
